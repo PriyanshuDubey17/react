@@ -10,6 +10,12 @@ const DashBoard = () => {
     
     <Link to= '/addStudent'  style={{Color:'white', width:'100% ', display:"block", fontSize:'1.5rem'}}>Add Student </Link>
     <Link to='/StudentList' style={{fontSize:'1.5rem',Color:'white', width:'100% ', display:"block"}}>Student List </Link>
+
+    <Link to='/facultyData' style={{fontSize:'1.5rem',Color:'white', width:'100% ', display:"block"}}> facultyData </Link>
+    
+    <Link to= '/facultyList'  style={{Color:'white', width:'100% ', display:"block", fontSize:'1.5rem'}}>facultyList </Link>
+
+    
     
 
     </div>

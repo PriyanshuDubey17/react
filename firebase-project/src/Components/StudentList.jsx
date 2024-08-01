@@ -37,6 +37,7 @@ const StudentList = () => {
   const redirect = (key, value) => {
     navigate('/update', { state: [ key, value ] });
   };
+  
 
 
   return (
